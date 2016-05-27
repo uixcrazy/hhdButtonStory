@@ -1,6 +1,6 @@
 # hhdButtonStory - made by [uixcrazy](http://uixcrazy.com/) 
 keyworkS: storybook, reactjs, scss, babel, webpack
-storybook: https://github.com/kadirahq/react-storybook
+storybook: [storybook](https://github.com/kadirahq/react-storybook)
 
 STEP BY STEP
 
@@ -21,5 +21,15 @@ Giải thích: _-c_ sẽ trỏ vào component cha
 
 4. `npm run storybook`
 
+### STEP 02: import CSS
+-------------------------------------------------------------------------
 
+- Bạn không thể gọi file CSS (như kiểu thông thường với HTML)
+- Docs: [sass-loader](https://github.com/jtangelder/sass-loader)
+			 [tham khảo](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-v)ersion
+
+sẽ cài webpack:
+`npm install --save-dev sass-loader node-sass webpack`
+
+viết file .scss
 
