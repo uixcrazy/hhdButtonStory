@@ -12,7 +12,8 @@ STEP BY STEP
   
   Nếu bạn thay thế thư mục __.storybook__ bằng __hhdstory__ thì viết:
   eg: _script "storybook": "start-storybook -p 9080 -c _hhdstory"_
-Giải thích: -c sẽ trỏ vào component cha
+
+Giải thích: _-c_ sẽ trỏ vào component cha
   
 2. `npm i`
 
