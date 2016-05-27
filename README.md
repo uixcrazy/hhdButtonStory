@@ -25,6 +25,7 @@ Giải thích: _-c_ sẽ trỏ vào component cha
 -------------------------------------------------------------------------
 
 -- Bạn không thể gọi file CSS (như kiểu thông thường với HTML)
+
 -- Docs: [sass-loader](https://github.com/jtangelder/sass-loader)
 			 [tham khảo](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-v)ersion
 
