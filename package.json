@@ -4,7 +4,7 @@
   "description": "hhd Button Story",
   "scripts": {
     "start": "node server.js",
-    "storybook": "start-storybook -p 9008"
+    "storybook": "start-storybook -p 9080"
   },
   "license": "MIT",
   "dependencies": {
