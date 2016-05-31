@@ -21,7 +21,7 @@ Giải thích: _-c_ sẽ trỏ vào component cha
 
 4. `npm run storybook`
 
-### STEP 02: import CSS
+### STEP 02: Import CSS
 -------------------------------------------------------------------------
 
 -- Bạn không thể gọi file CSS (như kiểu thông thường với HTML)
@@ -33,5 +33,7 @@ Giải thích: _-c_ sẽ trỏ vào component cha
 sẽ cài webpack:
 `npm install --save-dev sass-loader node-sass webpack`
 
--- viết file .scss
+-- to write `.scss`
 
+### STEP 03: Write the first story: Hover Effects 01
+-------------------------------------------------------------------------
