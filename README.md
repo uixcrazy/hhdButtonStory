@@ -28,7 +28,7 @@ Giải thích: _-c_ sẽ trỏ vào component cha
 
 -- Docs: [sass-loader](https://github.com/jtangelder/sass-loader)
 
-			 http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version
+[references](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version)
 
 sẽ cài webpack:
 `npm install --save-dev sass-loader node-sass webpack`
