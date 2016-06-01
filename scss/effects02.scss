@@ -1,0 +1,36 @@
+.effects02 {
+  padding: 50px;
+  text-align: center;
+  .btn-01 {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+    margin: 0 1em 1em 0;
+    padding: 0 4em;
+    height: 3.5em;
+    font: 300 1em/3.5em 'Open Sans', sans-serif;
+    text-decoration: none;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, .35);
+    letter-spacing: .08em;
+    color: #fff;
+    background: #0090c0;
+    border: solid 1px #fff;
+    border-radius: 2px;
+    -moz-transition: ease 0.35s all;
+    -o-transition: ease 0.35s all;
+    -webkit-transition: ease 0.35s all;
+    transition: ease 0.35s all;
+    &:hover {
+      background: #007da7;
+      box-shadow: 0 0 3px rgba(0, 0, 0, 0.5) inset;
+      line-height: 9em;
+    }
+    &:before {
+      content: attr(data-text);
+      color: #deeff5;
+      position: absolute;
+      top: -2.75em;
+    }
+  }
+}

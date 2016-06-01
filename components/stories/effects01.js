@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf } from '@kadira/storybook'; // , action
 import HoverEffects01 from '../HoverEffects01';
-import $ from "jquery";
+//import $ from "jquery";
 
 storiesOf('HoverEffects01', module)
   .add('hover 01', () => (
