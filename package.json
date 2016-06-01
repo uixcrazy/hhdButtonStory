@@ -14,9 +14,11 @@
   },
   "devDependencies": {
     "@kadira/storybook": "^1.1.0",
+    "classnames": "^2.2.5",
     "css-loader": "^0.23.1",
     "eslint": "^2.10.2",
     "eslint-plugin-react": "^5.1.1",
+    "jquery": "^2.2.4",
     "node-sass": "^3.7.0",
     "sass-loader": "^3.2.0",
     "style-loader": "^0.13.1",
